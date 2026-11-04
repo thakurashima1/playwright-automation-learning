@@ -1,0 +1,21 @@
+{
+  "name": "playwright-automation-learning",
+  "version": "1.0.0",
+  "description": "Playwright JavaScript Automation POC",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurashima1/playwright-automation-learning.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thakurashima1/playwright-automation-learning/issues"
+  },
+  "homepage": "https://github.com/thakurashima1/playwright-automation-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
